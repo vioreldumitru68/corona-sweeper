@@ -1,0 +1,10 @@
+.Score {
+    margin-top: 6px;
+    width: 50px;
+    display: inline-flex;
+    background-color: beige;
+    border: 2px solid #ddd;
+    padding: 6px;
+    font-size: large;
+    color: blueviolet;
+}

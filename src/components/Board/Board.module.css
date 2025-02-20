@@ -1,0 +1,22 @@
+.Board {
+    background-color: beige;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #ddd;
+    padding: 6px;
+}
+
+.GameCompleted {
+    background-color: greenyellow;
+    width: 400px;
+    height: 400px;
+    border: 2px solid #ddd;
+    padding: 6px; 
+}
+
+.GameOver {
+    width: 400px;
+    height: 400px;
+    border: 2px solid #ddd;
+    padding: 6px;
+}

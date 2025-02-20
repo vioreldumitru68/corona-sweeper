@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe4475c8.chunk.css",
+    "main.js": "/static/js/main.8faa2d0f.chunk.js",
+    "main.js.map": "/static/js/main.8faa2d0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d639c63f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d639c63f.js.map",
+    "static/js/2.a1e20554.chunk.js": "/static/js/2.a1e20554.chunk.js",
+    "static/js/2.a1e20554.chunk.js.map": "/static/js/2.a1e20554.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9990c4efe1785cc7f907de5b54e1aea1.js": "/precache-manifest.9990c4efe1785cc7f907de5b54e1aea1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fe4475c8.chunk.css.map": "/static/css/main.fe4475c8.chunk.css.map",
+    "static/js/2.a1e20554.chunk.js.LICENSE.txt": "/static/js/2.a1e20554.chunk.js.LICENSE.txt",
+    "static/media/Cell.module.css": "/static/media/virus.2137ff09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d639c63f.js",
+    "static/js/2.a1e20554.chunk.js",
+    "static/css/main.fe4475c8.chunk.css",
+    "static/js/main.8faa2d0f.chunk.js"
+  ]
+}

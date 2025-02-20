@@ -1,0 +1,39 @@
+.Cell {
+    margin: 1px;
+    width: 36px;
+    height: 36px;
+    display: inline-flex;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: blueviolet;
+    align-items: center;
+    justify-content: center;
+}
+
+.Covered {
+    background-color: rgb(165, 165, 107);
+}
+
+.Uncovered {
+    background-color: whitesmoke;
+}
+
+.Exploded {
+    background-color: whitesmoke;
+    background-image: url('../../../images/infected.svg');
+}
+
+.Flagged {
+    background-color: whitesmoke;
+    background-image: url('../../../images/mask.svg');
+}
+
+.Revealed {
+    background-color: whitesmoke;
+    background-image: url('../../../images/virus.svg');
+}
+
+.False_Matched {
+    background-color: whitesmoke;
+    background-image: url('../../../images/false_matched.svg');
+}
